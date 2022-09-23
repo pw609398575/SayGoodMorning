@@ -1,13 +1,13 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wx7dfeb944e79e78d1",
+"app_id": "wx7dfeb944e79e7***",
 # 公众号appSecret
-"app_secret": "f2a93fa8f30399821d5dbc3a758323c1",
+"app_secret": "f2a93fa8f30399821d5dbc3a75832***",
 # 模板消息id
-"template_id": "Io-Uw4GibVnsMYWZjygfsjFV-aa3Evmbw3ct2A2GcRo",
+"template_id": "uf1UwdnMJ72RQMitejf0JU4MpMhyhyX0buQMiHkCWY8",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["ogS-p5lCuiUhU51RUY55WgIrWCnc","ogS-p5qXKUiZQ2upXTxicbX28Wp4"],
+"user": ["ogS-p5lCuiUhU51RUY55WgIrW***","ogS-p5qXKUiZQ2upXTxicbX28***"],
 
 # 信息配置
 # 所在省份
@@ -15,11 +15,11 @@
 # 所在城市
 "city": "无锡",
 # 女孩生日
-"birthday": "1996-12-25",
+"birthday": "1996-12-**",
 # 男孩生日
-"birthday1": "1994-11-22",
+"birthday1": "1994-11-**",
 # 相识的日子
-"know_date": "2022-07-04",
+"know_date": "2022-07-**",
 # 在一起的日子，格式同上
-"love_date": "2022-08-02"
+"love_date": "2022-08-**"
 }
